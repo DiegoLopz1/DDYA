@@ -1,1 +1,2 @@
-SEMANA-1/archivo.txt
+mkdir mi_carpeta
+touch mi_carpeta/archivo.txt
