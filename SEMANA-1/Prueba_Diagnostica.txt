@@ -1,1 +1,16 @@
+Como se hacia el #4
+  Leer un número n.
+  Si n es menor o igual a 1, decir "No es primo" y terminar.
+  Suponer que el número es primo.
+  Revisar todos los números desde 2 hasta n - 1.
+  Si alguno divide exactamente a n (el residuo es 0), entonces el número no es primo.
+  Si al finalizar la revisión nunca se encontró un divisor, decir "Es primo".
+  En caso contrario, decir "No es primo".
 
+Como se hacia el #5
+  Leer el segundo número.
+  Si el primer número es mayor que el segundo, intercambiar sus valores.
+  Inicializar una variable llamada suma en 0.
+  Recorrer los números comprendidos entre el primero y el segundo, sin incluirlos.
+  Ir acumulando cada número intermedio en la variable suma.
+  Mostrar el valor de suma.
