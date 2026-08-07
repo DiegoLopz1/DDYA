@@ -16,7 +16,7 @@ def main():
 
     else:
         print(a,b, end=" ")
-        print(" \n su numero pertenece ")
+        print(" \n su numero no pertenece ")
 
 main()
 
