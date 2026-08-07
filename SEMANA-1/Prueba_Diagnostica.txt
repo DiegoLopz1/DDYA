@@ -14,3 +14,29 @@ Como se hacia el #5
   Recorrer los números comprendidos entre el primero y el segundo, sin incluirlos.
   Ir acumulando cada número intermedio en la variable suma.
   Mostrar el valor de suma.
+
+Como se hacía el #7
+  Leer el código del estudiante.
+  Aplicar al código todas las funciones ya creadas (positivo, par, Fibonacci, primo, etc.).
+  Mostrar el resultado obtenido en cada una de ellas.
+  No volver a escribir la lógica de cada proceso, sino reutilizar las funciones existentes.
+
+Como se hacía el #8
+  Leer el código del estudiante.
+  Leer la fecha de nacimiento, escribiendo el mes en palabras.
+  Unir el código con la fecha de nacimiento para formar un solo dato.
+  Separar la parte numérica del mes escrito.
+  Aplicar nuevamente todas las funciones utilizando el número obtenido.
+  Conservar el nombre del mes para usarlo en el siguiente punto.
+
+Como se hacía el #9
+  Leer el nombre del mes.
+  Recorrer cada letra del mes una por una.
+  Verificar si la letra pertenece al conjunto de vocales (a, e, i, o, u).
+  Si pertenece, indicar que es una vocal.
+  En caso contrario, indicar que es una consonante.
+  Repetir el proceso hasta analizar todas las letras del mes.
+
+
+
+
